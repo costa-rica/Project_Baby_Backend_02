@@ -1,10 +1,11 @@
-# Project Baby Backend
+# Project Baby Backend 02
 
 ![Project Baby Logo](/docs/images/logo128.png)
 
 ## Description
 
-Project Baby est une application qui rassemblera une feuille de route des rendez-vous médicaux, un calendrier avec un agenda connecté afin de créer des rappels et un carnet pour noter les informations concernant l’enfant allant du début de grossesse jusqu’au 2ème anniversaire de l’enfant ainsi que des informations afin de rassurer les “jeunes” parents durant cette aventure...
+- ** Not for Vercel **
+- Project Baby est une application qui rassemblera une feuille de route des rendez-vous médicaux, un calendrier avec un agenda connecté afin de créer des rappels et un carnet pour noter les informations concernant l’enfant allant du début de grossesse jusqu’au 2ème anniversaire de l’enfant ainsi que des informations afin de rassurer les “jeunes” parents durant cette aventure...
 
 ## Installation
 
